@@ -17,33 +17,33 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 
 - [X ] 1.- Crear variable tipo **let** de nombre **variableSinValor** declarada **sin valor**
 
-- [ ] 2.- Crear **2 variables** tipo **let** de nombres **booleano1** y **booleano2** con valores **booleanos**
+- [X ] 2.- Crear **2 variables** tipo **let** de nombres **booleano1** y **booleano2** con valores **booleanos**
 
-- [ ] 3.- Crear variable tipo **const** de nombre **PI** declarada con valor **3.14**
+- [X ] 3.- Crear variable tipo **const** de nombre **PI** declarada con valor **3.14**
 
-- [ ] 4.- Crear variable tipo **const** de nombre **TAU** declarada con valor **2 veces PI**
+- [X ] 4.- Crear variable tipo **const** de nombre **TAU** declarada con valor **2 veces PI**
 
 ### Booleanos ###
 
-- [ ] 5.- Crear variable **booleanoAnd** cuyo valor sea la comparación booleana **booleano1 and booleano2**
+- [X ] 5.- Crear variable **booleanoAnd** cuyo valor sea la comparación booleana **booleano1 and booleano2**
 
-- [ ] 6.- Crear variable **booleanoNot** cuyo valor sea la compracación booleana **no booleano1**
+- [X ] 6.- Crear variable **booleanoNot** cuyo valor sea la compracación booleana **no booleano1**
 
-- [ ] 7.- Crear variable **booleanoMix0** cuyo valor sea la compración booleana **(booleano1 or booleano2) and (booleano1 or (not booleano1 and not booleano2)**
+- [X ] 7.- Crear variable **booleanoMix0** cuyo valor sea la compración booleana **(booleano1 or booleano2) and (booleano1 or (not booleano1 and not booleano2)**
 
 ### Operadores ###
 
-- [ ] 8.- Crear variable **incrementarDesp** con valor **2** y **asigna su valor con postincremento a resultadoDesp**
+- [X ] 8.- Crear variable **incrementarDesp** con valor **2** y **asigna su valor con postincremento a resultadoDesp**
 
-- [ ] 9.- Crear variable **incrementarAntes** con valor **2** y **asigna su valor con preincremento a resultadoAntes**
+- [X ] 9.- Crear variable **incrementarAntes** con valor **2** y **asigna su valor con preincremento a resultadoAntes**
 
 ### Bucles ###
 
-- [ ] 10.- Crear variable **contarHasta10_2** con valor **0** e incrementar su valor con un **bucle for hasta que se verifique que contarHasta10_2 === 10** 
+- [X ] 10.- Crear variable **contarHasta10_2** con valor **0** e incrementar su valor con un **bucle for hasta que se verifique que contarHasta10_2 === 10** 
 
-- [ ] 11.- Crear las variables **postI** y **postJ** con valor **0** a continuación cree **un bucle que itere 11 veces**. En cada iteración se deberá **sumar al valor de postI el valor de postJ++**
+- [X ] 11.- Crear las variables **postI** y **postJ** con valor **0** a continuación cree **un bucle que itere 11 veces**. En cada iteración se deberá **sumar al valor de postI el valor de postJ++**
 
-- [ ] 12.- Crear la variable **sumaPares** con valor **0** a continuación crea un bucle que **itere 10 veces (i < 10)** si la iteración es par se deberá **sumar a sumaPares el número de la iteración actual (i)**
+- [X ] 12.- Crear la variable **sumaPares** con valor **0** a continuación crea un bucle que **itere 10 veces (i < 10)** si la iteración es par se deberá **sumar a sumaPares el número de la iteración actual (i)**
 
 ## Iteraciones :european_castle: proyecto individual :european_castle: ##
 
