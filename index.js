@@ -64,8 +64,8 @@ let booleanoMix2 = (variableValorNumerico > 0 || variableValorNumerico < -(MiNum
 //Operadores
 let valorSuma = MiNumeroFav + variableValorNumerico;
 let valorResta = MiNumeroFav - variableValorNumerico;
-let valorMultiplicación = MiNumeroFav * variableValorNumerico;
-let valorDivisión = MiNumeroFav / 3;
+let valorMultiplicacion = MiNumeroFav * variableValorNumerico;
+let valorDivision = MiNumeroFav / 3;
 
 //Bucles
 let contarHasta10 = 0;
